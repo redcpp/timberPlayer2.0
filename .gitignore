@@ -1,0 +1,13 @@
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors
+.idea/
+.vscode/
+*.swp
